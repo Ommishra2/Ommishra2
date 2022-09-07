@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding & developing
 - 🌱 I’m currently learning ... Java script, React JS, Mongo DB
 - 🤝 I’m looking to collaborate on ... web application developement,Full stack development
+- 🎓 Learning To Be Perfect....Because Learning Never Ends..........
 - 📫 How to reach me ...email-ommishra458@gmail.com
 
 <!---
