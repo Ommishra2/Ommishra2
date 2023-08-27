@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ommishra2
+- 👋 Hi, I’m Om Prakash
 - 👀 I’m interested in coding & developing
 - 🌱 I’m currently learning ... Java script, React JS, Mongo DB
 - 🤝 I’m looking to collaborate on ... web application developement,Full stack development
