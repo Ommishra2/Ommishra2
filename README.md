@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ommishra2" alt="ommishra2" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@omprakashm74960" target="blank"><img src="https://img.shields.io/twitter/follow/@omprakashm74960?logo=twitter&style=for-the-badge" alt="@omprakashm74960" /></a> </p>
-
 - 🌱 I’m currently learning **Python , Rust ,PyTorch, MongoDB, Rust ,D3js ,panads**
 
 - 📫 How to reach me **ommishra458@gmail.com**
@@ -27,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ommishra2&show_icons=true&theme=merko&locale=en" alt="ommishra2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ommishra2&theme=dark" alt="ommishra2" /></p>
+
