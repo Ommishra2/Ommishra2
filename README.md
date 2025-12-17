@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om prakash</h1>
 <h3 align="center">I am a student pursuing MSc in Information Technology 🧑🏻‍💻 from India</h3>
-🌱 I’m currently learning Python , Rust ,PyTorch, MongoDB, Rust ,D3js ,panads<br><br>📫  reach me out through ommishra458@gmail.com<br><br>⚡ Fun fact I don't know how to code 😂
+🌱 I’m currently learning Python,PyTorch,NextJS ,pandas,Google Cloud Platform(BigQuerries)<br><br>📫  reach me out through ommishra458@gmail.com<br><br>⚡ Fun fact I don't know how to code 😂
 
 
 ## 🌐 Socials:
