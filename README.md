@@ -33,13 +33,13 @@
 <div align="start">
 
 ### - Backend
-<img src="https://skillicons.dev/icons?i=postgresql,pytorch,nodejs,nestjs,mysql,mongodb,terraform" />
+<img src="https://skillicons.dev/icons?i=python,postgresql,pytorch,nodejs,nestjs,mysql,mongodb,terraform" />
 
 ### - Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
 
 ### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=postman,gitlab,vscode,figma,discord,docker,githubactions,jenkins" />
 
 </div>
 
