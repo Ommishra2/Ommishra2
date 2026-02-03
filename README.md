@@ -17,8 +17,8 @@
 
 ## ✨ About Me
 
-☕ Turning coffee into **clean, maintainable, and scalable backend systems**.  
-💻 Passionate about **building full-stack web apps** that blend performance with delightful UX.
+☕ Transforming caffeine into **highly-available APIs and automated ML workflows**.  
+💻 Building **full-stack systems** where predictive intelligence meets **high-performance UX**.
 
 - 🌱 Currently exploring **Frontend Development & Next.js**
 - 💬 Ask me about **Pytorch, Nestjs, NextJS, REST APIs, and full-stack architecture**
