@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&width=435&separator=%3C&lines=%F0%9F%9A%80+Building+DataIntellect+Platform;+%3C+%E2%9A%A1Architecting+Backend+Services;%3C%F0%9F%A7%A0+Deploying+MLOps+Vertex+AI+Pipelines;%3C+%F0%9F%93%8A+Engineering+Data+Risk+Models;%3C%F0%9F%A4%9D+Open+to+Collaborations+Opportunities;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&width=435&separator=%3C&lines=%F0%9F%9A%80+Building+DataIntellect+Platform;+%3C+%E2%9A%A1Architecting+Backend+Services;%3C%F0%9F%A7%A0+Deploying+MLOps+Pipelines;%3C+%F0%9F%93%8A+Engineering+Data+Risk+Models;%3C%F0%9F%A4%9D+Open+to+Collaborations;)](https://git.io/typing-svg)
 
 </div>
 
@@ -81,17 +81,24 @@ class Developer {
 <div align="center">
 
 **[ Backend & Data ]**  
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,pytorch,tensorflow,nodejs,mysql,mongodb,firebase,graphql,terraform&theme=dark" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=python,golang,postgresql,pytorch,nodejs,mysql,graphql,terraform&theme=dark" alt="Backend Stack" />
 
-<br/>
 
 **[ Frontend ]**  
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vue,bootstrap&theme=dark" alt="Frontend Stack" />
 
-<br/>
+
+
 
 **[ Cloud & DevOps ]**  
-<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,jenkins,grafana,postman,linux&theme=dark" alt="Cloud Stack" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,gitlab,githubactions,prometheus,grafana,postman,ansible,linux&theme=dark" alt="Cloud Stack" />
+
+
+
+**[ Tools & Others ]**
+
+<img src="https://skillicons.dev/icons?i=gherkin,obsidian,figma,discord,notion,git&theme=dark" alt="Tool Stack" />
+
 
 </div>
 
