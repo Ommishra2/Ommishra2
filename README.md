@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=220&section=header&text=Om%20Prakash%20Mishra&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=Backend%20Engineering%20%7C%20MLOps%20%7C%20Data%20Science&descSize=18&descAlignY=68&descColor=e2e8f0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12,100,123,34,56,68&height=280&section=header&text=Om%20Prakash%20Mishra&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=Backend%20Engineering%20%7C%20MLOps%20%7C%20Data%20Science&descSize=25&descAlignY=70&descColor=e2e8f0" width="200%" />
 
 </div>
 
@@ -55,11 +55,9 @@ class Developer {
 
 <div align="center">
   <a href="https://github.com/Ommishra2/DataIntellect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ommishra2&repo=DataIntellect&bg_color=0f172a&border_color=0f172a&title_color=c084fc&icon_color=38bdf8&text_color=cbd5e1" alt="DataIntellect" />
   </a>
 </div>
 
-<br/>
 
 | Architecture Layer | Technologies & Tools |
 |:---|:---|
@@ -102,12 +100,6 @@ class Developer {
 ## 📊 Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ommishra2&show_icons=true&bg_color=0f172a&title_color=c084fc&text_color=cbd5e1&icon_color=38bdf8&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ommishra2&layout=compact&bg_color=0f172a&title_color=c084fc&text_color=cbd5e1&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Ommishra2&background=0f172a&border=0f172a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=cbd5e1&dates=cbd5e1&statues=cbd5e1&stroke=0f172a" alt="GitHub Streak" />
 
