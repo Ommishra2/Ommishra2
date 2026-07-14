@@ -1,67 +1,161 @@
+<div align="center">
 
-# 👋 Hey there! I'm Om....
-
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Fullstack+Developer;MLOps+Engineer" ;Code+Hard,+Sleep+Rarelyalt="Typing Animation" />
-</div>
-
-<p align="left">
-  <a target="_blank" href="https://myport-folio-one.vercel.app/"><img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a target="_blank" href=https://linkedin.com/in/www.linkedin.com/in/om-prakash-mishra-b20766201"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="https://x.com/OMPRAKASHM74960"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a target="_blank" href="https://instagram.com/om.1205_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-
----
-
-## ✨ About Me
-
-☕ Transforming caffeine into **highly-available APIs and automated ML workflows**.  
-💻 Building **full-stack systems** where predictive intelligence meets **high-performance UX**.
-
-- 🌱 Currently exploring **Frontend Development & Next.js**
-- 💬 Ask me about **Pytorch, Nestjs, NextJS, REST APIs, and full-stack architecture**
-- 📫 Reach me at: **[ommishra458@gmail.com](mailto:ommishra458@gmail.com)**
-
-> “Code is like humor — when you have to explain it, it’s bad.” 😎
-
----
-
-## ✨ Tech Stack
-
-<div align="start">
-
-### - Backend
-<img src="https://skillicons.dev/icons?i=python,postgresql,pytorch,nodejs,nestjs,mysql,firebase,terraform,graphql" />
-
-### - Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,solidjs,bootstrap" />
-
-### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,gitlab,anaconda,figma,discord,docker,githubactions,jenkins,grafana" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=220&section=header&text=Om%20Prakash%20Mishra&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=Backend%20Engineering%20%7C%20MLOps%20%7C%20Data%20Science&descSize=18&descAlignY=68&descColor=e2e8f0" width="100%" />
 
 </div>
-
----
-
-## ✨ GitHub Contribution
 
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake.svg">
-</picture>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&width=435&separator=%3C&lines=%F0%9F%9A%80+Building+DataIntellect+Platform;+%3C+%E2%9A%A1Architecting+Backend+Services;%3C%F0%9F%A7%A0+Deploying+MLOps+Vertex+AI+Pipelines;%3C+%F0%9F%93%8A+Engineering+Data+Risk+Models;%3C%F0%9F%A4%9D+Open+to+Collaborations+Opportunities;)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+<a href="https://myport-folio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=c084fc" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/om-prakash-mishra-b20766201"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn" /></a>
+<a href="https://x.com/OMPRAKASHM74960"><img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=x&logoColor=c084fc" alt="X / Twitter" /></a>
+<a href="https://instagram.com/om.1205_"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=c084fc" alt="Instagram" /></a>
+<a href="mailto:ommishra458@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="Email" /></a>
+
 </div>
 
 ---
 
-## ✨ Fun Facts
-- 🎧 Coding with lo-fi beats or SoundCloud remixes
-- 🧩 Loves problem-solving and system design
-- 🚀 Always open to learning and collaboration
+## 👤 About Me
+
+```typescript
+class Developer {
+  name: string = "Om Prakash Mishra";
+  education: string = "MSc Information Technology @ BBAU (2025–2027)";
+  
+  focusAreas: string[] = [
+    "Backend Engineering (FastAPI, Node.js, PostgreSQL)",
+    "MLOps & AI (GCP, Vertex AI, PyTorch)",
+    "Data Science (Pandas, Risk Modelling)"
+  ];
+  
+  currentProject() {
+    return {
+      name: "DataIntellect 🏦",
+      description: "AI-powered Financial Risk Intelligence Platform",
+      stack: ["Python", "FastAPI", "GCP", "MongoDB Vector Search"]
+    };
+  }
+}
+```
 
 ---
 
-⭐ *If you like what I do, consider giving my repos a star — it keeps me caffeinated!* ☕
+## 🚀 Featured Work
+
+**[DataIntellect](https://github.com/Ommishra2/DataIntellect)** — *AI-enabled Financial Risk Intelligence Platform (MSc Major Project)*  
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Ommishra2/DataIntellect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ommishra2&repo=DataIntellect&bg_color=0f172a&border_color=0f172a&title_color=c084fc&icon_color=38bdf8&text_color=cbd5e1" alt="DataIntellect" />
+  </a>
+</div>
+
+<br/>
+
+| Architecture Layer | Technologies & Tools |
+|:---|:---|
+| **API & Backend** | Python, FastAPI |
+| **ML & Data Models** | PyTorch, Scikit-learn, Pandas |
+| **Database Systems** | PostgreSQL, MongoDB Atlas Vector Search |
+| **Cloud & DevOps** | GCP, Vertex AI, Docker |
+| **Frontend UI** | React, Tailwind CSS |
+
+<br/>
+
+<div align="left">
+  <a href="https://github.com/Ommishra2/DataIntellect"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Source Code" /></a>
+  <a href="https://myport-folio-one.vercel.app/"><img src="https://img.shields.io/badge/Live_System-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live System" /></a>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**[ Backend & Data ]**  
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,pytorch,tensorflow,nodejs,mysql,mongodb,firebase,graphql,terraform&theme=dark" alt="Backend Stack" />
+
+<br/>
+
+**[ Frontend ]**  
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Stack" />
+
+<br/>
+
+**[ Cloud & DevOps ]**  
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,jenkins,grafana,postman,linux&theme=dark" alt="Cloud Stack" />
+
+</div>
+
+---
+
+## 📊 Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ommishra2&show_icons=true&bg_color=0f172a&title_color=c084fc&text_color=cbd5e1&icon_color=38bdf8&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ommishra2&layout=compact&bg_color=0f172a&title_color=c084fc&text_color=cbd5e1&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Ommishra2&background=0f172a&border=0f172a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=cbd5e1&dates=cbd5e1&statues=cbd5e1&stroke=0f172a" alt="GitHub Streak" />
+
+</div>
+
+---
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|:---|:---|:---|
+| **Claude with GCP Vertex AI** | Anthropic × Google | ✅ Completed |
+| **React Bootcamp** | - | ✅ Completed |
+| **GCP Fundamentals** | Google Cloud | 🔄 In Progress |
+
+</div>
+
+---
+
+## 💡 Currently Exploring
+
+```text
+• Designing robust MLOps pipelines on Vertex AI
+• Orchestrating microservices with FastAPI
+• LLM fine-tuning for domain-specific NLP (Finance)
+• Implementing real-time streaming anomaly detection
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+</div>
