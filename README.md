@@ -156,5 +156,5 @@ class Developer {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,100,123,34,56,68&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
 </div>
