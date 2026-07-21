@@ -108,7 +108,8 @@ class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ommishra2&background=0f172a&border=0f172a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=cbd5e1&dates=cbd5e1&statues=cbd5e1&stroke=0f172a" alt="GitHub Streak" />
+![](https://github-readme-stats.shion.dev/api?username=Ommishra2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ommishra2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
