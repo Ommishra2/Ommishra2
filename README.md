@@ -39,7 +39,7 @@ class Developer {
     return {
       name: "DataIntellect 🏦",
       description: "AI-powered Financial Risk Intelligence Platform",
-      stack: ["Python", "FastAPI", "GCP", "MongoDB Vector Search"]
+      stack: ["Python", "FastAPI", "GCP", "PostgreDB Vector Search"]
     };
   }
 }
