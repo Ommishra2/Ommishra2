@@ -1,81 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12,100,123,34,56,68&height=280&section=header&text=Om%20Prakash%20Mishra&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=Backend%20Engineering%20%7C%20MLOps%20%7C%20Data%20Science&descSize=25&descAlignY=70&descColor=e2e8f0" width="200%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&customColorList=12,20,23,27,30&text=Om%20Prakash%20Mishra&fontSize=46&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Backend%20Engineering%20%7C%20Platform%20Engineering%20%7C%20AI%20Systems&descAlignY=67&descSize=21"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&width=435&separator=%3C&lines=%F0%9F%9A%80+Building+DataIntellect+Platform;+%3C+%E2%9A%A1Architecting+Backend+Services;%3C%F0%9F%A7%A0+Deploying+MLOps+Pipelines;%3C+%F0%9F%93%8A+Engineering+Data+Risk+Models;%3C%F0%9F%A4%9D+Open+to+Collaborations;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=700&size=26&pause=1200&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+CortexOps;%E2%9A%A1+Engineering+Cloud-Native+Backend+Systems;%F0%9F%A7%A0+AI-powered+Operational+Intelligence;%E2%98%B8+Learning+Distributed+Systems;%F0%9F%A4%9D+Open+to+Software+Engineering+Collaborations)](https://git.io/typing-svg)
 
 </div>
+
+<br>
 
 <div align="center">
 
-<a href="https://myport-folio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=c084fc" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/om-prakash-mishra-b20766201"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn" /></a>
-<a href="https://x.com/OMPRAKASHM74960"><img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=x&logoColor=c084fc" alt="X / Twitter" /></a>
-<a href="https://instagram.com/om.1205_"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=c084fc" alt="Instagram" /></a>
-<a href="mailto:ommishra458@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="Email" /></a>
+<a href="https://my-port-folio-new-one.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=A855F7"/>
+</a>
+
+<a href="https://linkedin.com/in/om-prakash-mishra-b20766201">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+</a>
+
+<a href="mailto:ommishra458@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+</a>
+
+<a href="https://github.com/Ommishra2">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7"/>
+</a>
 
 </div>
+
+<br>
 
 ---
 
-## 👤 About Me
+# 👋 About Me
 
 ```typescript
-class Developer {
-  name: string = "Om Prakash Mishra";
-  education: string = "MSc Information Technology @ BBAU (2025–2027)";
-  
-  focusAreas: string[] = [
-    "Backend Engineering (FastAPI, Node.js, PostgreSQL)",
-    "MLOps & AI (GCP, Vertex AI, PyTorch)",
-    "Data Science (Pandas, Risk Modelling)"
-  ];
-  
-  currentProject() {
-    return {
-      name: "DataIntellect 🏦",
-      description: "AI-powered Financial Risk Intelligence Platform",
-      stack: ["Python", "FastAPI", "GCP", "PostgreDB Vector Search"]
-    };
-  }
-}
+const om = {
+
+    education: "M.Sc. Information Technology @ BBAU, Lucknow",
+
+    role: "Backend & Platform Engineering",
+
+    building: "CortexOps",
+
+    interests: [
+        "Backend Engineering",
+        "Platform Engineering",
+        "Artificial Intelligence",
+        "Cloud Native Systems",
+        "MLOps"
+    ],
+
+    learning: [
+        "Go",
+        "Kubernetes",
+        "Distributed Systems",
+        "System Design"
+    ],
+
+    motto: "Build reliable systems. Learn continuously."
+
+};
 ```
-
----
-
-## 🚀 Featured Work
-
-**[DataIntellect](https://github.com/Ommishra2/DataIntellect)** — *AI-enabled Financial Risk Intelligence Platform (MSc Major Project)*  
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Ommishra2/DataIntellect">
-  </a>
-</div>
-
-
-| Architecture Layer | Technologies & Tools |
-|:---|:---|
-| **API & Backend** | Python, FastAPI |
-| **ML & Data Models** | PyTorch, Scikit-learn, Pandas |
-| **Database Systems** | PostgreSQL, MongoDB Atlas Vector Search |
-| **Cloud & DevOps** | GCP, Vertex AI, Docker |
-| **Frontend UI** | React, Tailwind CSS |
-
-<br/>
-
-<div align="left">
-  <a href="https://github.com/Ommishra2/DataIntellect"><img src="https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Source Code" /></a>
-  <a href="https://myport-folio-one.vercel.app/"><img src="https://img.shields.io/badge/Live_System-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live System" /></a>
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -104,58 +94,207 @@ class Developer {
 
 ---
 
-## 📊 Analytics
+
+# 🎯 Engineering Focus
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Ommishra2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ommishra2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Backend | Platform | AI | Cloud |
+|:--------:|:--------:|:--:|:-----:|
+| REST APIs | Kubernetes | LLM Applications | Docker |
+| Distributed Systems | Observability | MLOps | Linux |
+| System Design | DevOps | AI Engineering | Cloud Native |
 
 </div>
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ommishra2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ommishra2&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ommishra2&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Activity
+
+<div align="center">
+
+[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ommishra2&theme=tokyo-night&hide_border=true&radius=16)]
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake.svg" width="100%">
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake.svg"/>
+
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/Ommishra2/Ommishra2/output/github-contribution-grid-snake-dark.svg"/>
+
 </picture>
 
 </div>
 
 ---
 
-## 🎓 Certifications
+# 🏅 Certifications
 
 <div align="center">
 
-| Certification | Issuer | Status |
-|:---|:---|:---|
-| **Claude with GCP Vertex AI** | Anthropic × Google | ✅ Completed |
-| **React Bootcamp** | - | ✅ Completed |
-| **GCP Fundamentals** | Google Cloud | 🔄 In Progress |
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🚀 DataCamp
+
+<a href="https://www.datacamp.com/skill-verification/AIF0022542906201">
+<b>AI Fundamentals</b>
+</a>
+
+<br><br>
+
+<a href="https://www.datacamp.com/certificate/AEDS0011146141737">
+Associate Data Engineer
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔥 Databricks
+
+<a href="https://credentials.databricks.com/394da623-0ecb-4a4f-9121-c62028cb8136#acc.RAjyf09p">
+<b>Generative AI Fundamentals</b>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Intel
+
+<a href="https://www.credly.com/badges/6d63a946-8251-4f91-90fd-8c13369f657a/linked_in_profile">
+<b>Cloud DevOps</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🤖 Anthropic
+
+<a href="https://verify.skilljar.com/c/cnfdvxwxxgt8">
+<b>Claude with Google Cloud Vertex AI</b>
+</a>
+
+</td>
+
+<td align="center">
+
+### ☁️ Google Cloud
+
+<a href="https://www.credly.com/badges/605d357d-162d-45e4-85bc-70637b6f5091/linked_in_profile">
+Streaming Analytics into BigQuery
+</a>
+
+<br><br>
+
+<a href="https://www.credly.com/badges/5f02b7fe-c5e2-4f0f-a176-16424a3ee706/linked_in_profile">
+Set Up an App Dev Environment
+</a>
+
+</td>
+
+<td align="center">
+
+### 📊 Kaggle
+
+<a href="https://www.kaggle.com/learn/certification/omprakash1205/advanced-sql">
+Advanced SQL
+</a>
+
+<br><br>
+
+<a href="https://www.kaggle.com/learn/certification/omprakash1205/intro-to-sql">
+Intro to SQL
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+---
+
+# 🎯 Currently Building
+
+- 🚀 **CortexOps** — AI-assisted Operational Decision Support Platform
+- ⚡ Building scalable backend services using **Go** and **Python**
+- ☸ Exploring **Kubernetes**, **Cloud Native** architecture and **Platform Engineering**
+- 🧠 Learning **Distributed Systems**, **System Design**, and **MLOps**
+- 🤝 Open to collaboration on Backend, DevOps, and AI Engineering projects
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ommishra458@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+</a>
+
+<a href="https://linkedin.com/in/om-prakash-mishra-b20766201">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+</a>
+
+<a href="https://my-port-folio-new-one.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A855F7"/>
+</a>
+
+<a href="https://github.com/Ommishra2">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7"/>
+</a>
 
 </div>
 
 ---
 
-## 💡 Currently Exploring
-
-```text
-• Designing robust MLOps pipelines on Vertex AI
-• Orchestrating microservices with FastAPI
-• LLM fine-tuning for domain-specific NLP (Finance)
-• Implementing real-time streaming anomaly detection
-```
-
-<br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,100,123,34,56,68&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+
+> **"Design for reliability. Build for scale. Learn continuously."**
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,23,27,30"/>
+
 </div>
