@@ -129,14 +129,6 @@ const om = {
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ommishra2&theme=tokyo-night&hide_border=true&radius=16)]
-
-</div>
-
 ---
 
 # 🐍 Contribution Snake
